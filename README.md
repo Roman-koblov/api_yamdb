@@ -15,22 +15,23 @@
 
 ## Какие технологии и пакеты использовались:
 
-* requests==2.26.0
-* django==2.2.16
-* djangorestframework==3.12.4
+* Python 3.8
+* requests 2.26.0
+* django 2.2.16
+* djangorestframework 3.12.4
 * djoser
-* djangorestframework-simplejwt==4.7.2
-* PyJWT==2.1.0
-* pytest==6.2.4
-* pytest-django==4.4.0
-* pytest-pythonpath==0.7.3
+* djangorestframework-simplejwt 4.7.2
+* PyJWT 2.1.0
+* pytest 6.2.4
+* pytest-django 4.4.0
+* pytest-pythonpath 0.7.3
 
 
 ## Как разместить и запустить проект:
 
 Клонировать репозиторий и перейти в него в командной строке:
 
-<pre><code>git clone [https://github.com/davwin/api_yamdb]</code>
+<pre><code>git clone [https://github.com/Roman-koblov/api_yamdb]</code>
 
 <code>cd api_yamdb</code></pre>
 
