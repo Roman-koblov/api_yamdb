@@ -10,7 +10,6 @@
 
 ## Над проектом трудились:
 * [Роман Коблов](https://github.com/Roman-koblov/)
-* [Нурсултан Утаралинов](https://github.com/Utaralinov/)
 * [Давид Барсегян](https://github.com/davwin/)
 
 
