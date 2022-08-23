@@ -55,7 +55,8 @@ Cоздать и активировать виртуальное окружен�
 Импортировать данные из csv файла:
 
 <pre><code>cd api_yamdb</code></pre>
-<pre><code>python manage.py import_data.py</code></pre>
+
+<pre><code>python3 manage.py import_data.py</code></pre>
 
 Запустить проект:
 
