@@ -41,7 +41,9 @@
 
 Cоздать и активировать виртуальное окружение:
 
-<pre><code>python3 -m venv venv source venv/bin/activate</code></pre>
+<pre><code>python3 -m venv venv</code>
+
+<code>source venv/bin/activate</code></pre>
 
 Установить зависимости из файла requirements.txt:
 
