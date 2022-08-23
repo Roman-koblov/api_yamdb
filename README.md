@@ -56,7 +56,7 @@ Cоздать и активировать виртуальное окружен�
 
 <pre><code>cd api_yamdb</code></pre>
 
-<pre><code>python3 manage.py import_data.py</code></pre>
+<code>python3 manage.py import_data.py</code></pre>
 
 Запустить проект:
 
