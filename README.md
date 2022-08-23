@@ -26,6 +26,9 @@
 * pytest-django 4.4.0
 * pytest-pythonpath 0.7.3
 
+---
+---
+
 
 ## Как разместить и запустить проект:
 
@@ -41,9 +44,9 @@ Cоздать и активировать виртуальное окружен�
 
 Установить зависимости из файла requirements.txt:
 
-<pre><code>python -m pip install --upgrade pip</code>
+<pre><code>python3 -m pip install --upgrade pip</code>
 
-<code>pip install -r requirements.txt</code></pre>
+<code>pip3 install -r requirements.txt</code></pre>
 
 Выполнить миграции:
 
@@ -58,4 +61,4 @@ Cоздать и активировать виртуальное окружен�
 
 <pre><code>python3 manage.py runserver</code></pre>
 
-## Примеры работы API в ReDoc: http://127.0.0.1:8000/redoc/
+Примеры работы API в ReDoc: http://127.0.0.1:8000/redoc/
